@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/kakashisama/portfolio-site#readme",
   "devDependencies": {
-    "grunt-cli": "^1.2.0",
-    "gulp-cli": "^1.2.2"
+    "express": "^4.14.0"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
   }
 }
