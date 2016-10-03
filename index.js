@@ -1,0 +1,3 @@
+/*
+My index.js file
+*/
